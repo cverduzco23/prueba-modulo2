@@ -103,7 +103,7 @@ header {
 
 .portada-section {
   grid-area: portada;
-  background-image: url(/assets/img/bg.png);
+  background-image: url(../img/bg.png);
   background-size: cover;
   background-position: 50%;
   height: 320px;
@@ -271,42 +271,42 @@ header {
 }
 
 .rpm {
-  background-image: url(/assets/img/rpm.webp);
+  background-image: url(../img/rpm.webp);
   background-size: cover;
 }
 
 .rph {
-  background-image: url(/assets/img/rph.webp);
+  background-image: url(../img/rph.webp);
   background-size: cover;
 }
 
 .cpm {
-  background-image: url(/assets/img/cpm.jpg);
+  background-image: url(../img/cpm.jpg);
   background-size: cover;
 }
 
 .cph {
-  background-image: url(/assets/img/cph.jpg);
+  background-image: url(../img/cph.jpg);
   background-size: cover;
 }
 
 .rpn {
-  background-image: url(/assets/img/rpn.jpg);
+  background-image: url(../img/rpn.jpg);
   background-size: cover;
 }
 
 .rpna {
-  background-image: url(/assets/img/rpna.webp);
+  background-image: url(../img/rpna.webp);
   background-size: cover;
 }
 
 .disfraz {
-  background-image: url(/assets/img/disfraz.webp);
+  background-image: url(../img/disfraz.webp);
   background-size: cover;
 }
 
 .invierno {
-  background-image: url(/assets/img/invierno.jpg);
+  background-image: url(../img/invierno.jpg);
   background-size: cover;
 }
 
@@ -488,7 +488,7 @@ a {
 
   .portada-section {
     grid-area: portada;
-    background-image: url(/assets/img/bg.png);
+    background-image: url(../img/bg.png);
     background-size: cover;
     background-position: 50%;
     height: 320px;
